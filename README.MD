@@ -39,13 +39,19 @@
     DB_CONNECTION_TIMEOUT=10
 
     ```
-4. Run the application:
+
+4. Execute the SQL  for Create Database and Table
+```
+database/db.sql
+```
+
+5. Run the application:
 
     ```bash
     go run main.go
     ```
 
-5. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to see the app in action.
+6. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to see the app in action.
 
 ## Features
 ### Postman Documentation
